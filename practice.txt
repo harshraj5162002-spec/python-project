@@ -1,0 +1,3 @@
+hi everyone
+ we are learning a java programming file i/o  using java
+ i like a programming in java
